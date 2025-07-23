@@ -1,16 +1,13 @@
-### Hi there 👋
+Performance-oriented developer with a backend-first mindset — but not afraid to get hands-on with the client side.
 
-<!--
-**Calculamatrise/Calculamatrise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Active projects
+- [Free Rider Lite](https://github.com/Calculamatrise/frhd-lite)
+- [Top Hat Rider](https://github.com/tophatrider/game)
 
-Here are some ideas to get you started:
+### Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/-Node.js-417E38?logo=nodedotjs&logoColor=FFF)](https://nodejs.org/en/about)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+> Always creating, always learning.
