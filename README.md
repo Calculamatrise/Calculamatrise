@@ -11,5 +11,3 @@ Performance-oriented developer with a backend-first mindset — but not afraid t
 ---
 
 Feel free to join the [Discord](https://discord.gg/N5vYy9cEYc).
-
-> *Always creating, always learning.*
